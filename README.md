@@ -1,5 +1,17 @@
 Dejo en enlace de mis forks y commits aca 
 
+Forks
+https://github.com/Koiristea/koiristea.github.io/forks
+https://github.com/Oapa08/Gealuque.github.io
+https://github.com/Oapa08/mangellch.github.io
+https://github.com/Oapa08/Vitalis-202.github.io
+https://github.com/Oapa08/Ariannie-Monrroe.github.io
+https://github.com/Oapa08/Juliana-hn.github.io
+
+Commits 
+https://github.com/Oapa08/koiristea.github.io/commits/main/
+https://github.com/Oapa08/mangellch.github.io/commits/main/
+
 
 
 Mi Prueba
