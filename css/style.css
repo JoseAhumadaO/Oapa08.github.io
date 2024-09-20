@@ -5,11 +5,11 @@ body {
 }
 
 h1, h2, h3 {
-    color: #7fdbff; /* Color celeste mate */
+    color: #ffffff; /* Color celeste mate */
 }
 
 .navbar-dark .navbar-brand, .navbar-dark .nav-link {
-    color: #7fdbff;
+    color: #ffffff;
 }
 
 .navbar-dark .nav-link.active {
@@ -68,4 +68,8 @@ footer p {
 .card-text {
     font-size: 0.9rem;
     color: #6c757d;
+}
+
+.bg_dark{
+    background-color: #23272a;
 }
